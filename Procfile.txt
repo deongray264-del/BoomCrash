@@ -1,1 +1,1 @@
-worker: python deriv_multisymbol_bot.py
+worker: python deriv_boom_crash_bot.py
